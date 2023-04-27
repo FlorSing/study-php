@@ -13,4 +13,4 @@ zip \
 
 EXPOSE 80
 
-CMD ["apache2-foreground"]
+CMD ["php", "./index.php"]

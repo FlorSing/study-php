@@ -9,7 +9,7 @@
 <body>
 
 <p>
-    <a href="index.php">home</a>
+    <a href="index.html">home</a>
     <a href='about.php'>about test</a>
     <a href="functionstry.php">functions</a>
 </p>    

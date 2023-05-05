@@ -1,7 +1,8 @@
+
 <?php
 echo "<hr />";
-echo "copyright :: fps " .  date("Y");
+echo "Copyright :: FPS " .  date("Y");
 ?>
 
+</body>
 </html>
-

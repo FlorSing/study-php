@@ -6,7 +6,7 @@ WORKDIR /xampp/htdocs/studyPHP
 RUN apt-get update && apt-get installl -y \ 
 libicu-dev \ 
 libzip-dev \
-&& deocker-php-ext-install \
+&& docker-php-ext-install \
 intl \
 zip \
 && a2enmod rewrite

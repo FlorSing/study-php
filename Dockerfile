@@ -17,7 +17,7 @@ WORKDIR /xampp/htdocs/studyPHP
 #     && a2enmod rewrite
 
 # Expose port 80
-EXPOSE 443
+EXPOSE 80
 
 # Define the entry point for the container
 CMD ["./index.php"]
